@@ -209,5 +209,5 @@ async def help( ctx ):
     await ctx.send( embed = emb )
 #-----------------------------------------------------------------------------------------------#
 bot.loop.create_task(initialise())
-bot.run("OTg3NzM3Mzg4NzMyMjcyNjQw.GdUBo-.3ur8EnrYu9nOyqeka4cqflyW6YOrTpx5d0VXtI")
+bot.run("Insert your bot token")
 asyncio.run(bot.db.close())
